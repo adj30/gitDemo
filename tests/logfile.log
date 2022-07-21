@@ -1,0 +1,367 @@
+2022-07-04 15:57:03,087 :INFO :test_form_submission :First Name is :- Sachin
+2022-07-04 15:57:03,324 :INFO :test_form_submission :Email is :- s@gmail.com
+2022-07-04 15:57:03,852 :INFO :test_form_submission :Gender is :- Male
+2022-07-04 15:57:03,988 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-04 15:57:04,340 :INFO :test_form_submission :First Name is :- Rahul
+2022-07-04 15:57:04,480 :INFO :test_form_submission :Email is :- r@gmail.com
+2022-07-04 15:57:04,783 :INFO :test_form_submission :Gender is :- Male
+2022-07-04 15:57:04,958 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-04 15:57:05,449 :INFO :test_form_submission :First Name is :- Mithali
+2022-07-04 15:57:05,583 :INFO :test_form_submission :Email is :- m@gmail.com
+2022-07-04 15:57:05,927 :INFO :test_form_submission :Gender is :- Female
+2022-07-04 15:57:06,120 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-04 15:57:11,563 :INFO :test_e2e :getting all product titles
+2022-07-04 15:57:11,598 :INFO :test_e2e :iphone X
+2022-07-04 15:57:11,639 :INFO :test_e2e :Samsung Note 8
+2022-07-04 15:57:11,684 :INFO :test_e2e :Nokia Edge
+2022-07-04 15:57:11,730 :INFO :test_e2e :Blackberry
+2022-07-04 15:57:12,085 :INFO :test_e2e :Entering country name as India
+2022-07-04 15:57:18,138 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-04 16:05:48,077 :INFO :test_form_submission :First Name is :- Sachin
+2022-07-04 16:05:48,219 :INFO :test_form_submission :Email is :- s@gmail.com
+2022-07-04 16:05:48,547 :INFO :test_form_submission :Gender is :- Male
+2022-07-04 16:05:48,649 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-04 16:05:49,062 :INFO :test_form_submission :First Name is :- Rahul
+2022-07-04 16:05:49,236 :INFO :test_form_submission :Email is :- r@gmail.com
+2022-07-04 16:05:49,715 :INFO :test_form_submission :Gender is :- Male
+2022-07-04 16:05:49,955 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-04 16:05:50,399 :INFO :test_form_submission :First Name is :- Mithali
+2022-07-04 16:05:50,540 :INFO :test_form_submission :Email is :- m@gmail.com
+2022-07-04 16:05:50,888 :INFO :test_form_submission :Gender is :- Female
+2022-07-04 16:05:51,028 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-04 16:05:56,962 :INFO :test_e2e :getting all product titles
+2022-07-04 16:05:57,042 :INFO :test_e2e :iphone X
+2022-07-04 16:05:57,121 :INFO :test_e2e :Samsung Note 8
+2022-07-04 16:05:57,201 :INFO :test_e2e :Nokia Edge
+2022-07-04 16:05:57,279 :INFO :test_e2e :Blackberry
+2022-07-04 16:05:57,682 :INFO :test_e2e :Entering country name as India
+2022-07-04 16:06:03,561 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-04 16:19:38,073 :INFO :test_form_submission :First Name is :- Sachin
+2022-07-04 16:19:38,142 :INFO :test_form_submission :Email is :- s@gmail.com
+2022-07-04 16:19:38,298 :INFO :test_form_submission :Gender is :- Male
+2022-07-04 16:19:38,375 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-04 16:19:38,596 :INFO :test_form_submission :First Name is :- Rahul
+2022-07-04 16:19:38,651 :INFO :test_form_submission :Email is :- r@gmail.com
+2022-07-04 16:19:38,761 :INFO :test_form_submission :Gender is :- Male
+2022-07-04 16:19:38,811 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-04 16:19:38,980 :INFO :test_form_submission :First Name is :- Mithali
+2022-07-04 16:19:39,033 :INFO :test_form_submission :Email is :- m@gmail.com
+2022-07-04 16:19:39,163 :INFO :test_form_submission :Gender is :- Female
+2022-07-04 16:19:39,211 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-04 16:19:43,806 :INFO :test_e2e :getting all product titles
+2022-07-04 16:19:43,830 :INFO :test_e2e :iphone X
+2022-07-04 16:19:43,851 :INFO :test_e2e :Samsung Note 8
+2022-07-04 16:19:43,873 :INFO :test_e2e :Nokia Edge
+2022-07-04 16:19:43,894 :INFO :test_e2e :Blackberry
+2022-07-04 16:19:44,051 :INFO :test_e2e :Entering country name as India
+2022-07-04 16:19:49,484 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-04 16:21:46,412 :INFO :test_form_submission :First Name is :- Sachin
+2022-07-04 16:21:46,481 :INFO :test_form_submission :Email is :- s@gmail.com
+2022-07-04 16:21:46,639 :INFO :test_form_submission :Gender is :- Male
+2022-07-04 16:21:46,716 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-04 16:21:46,922 :INFO :test_form_submission :First Name is :- Rahul
+2022-07-04 16:21:46,989 :INFO :test_form_submission :Email is :- r@gmail.com
+2022-07-04 16:21:47,130 :INFO :test_form_submission :Gender is :- Male
+2022-07-04 16:21:47,195 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-04 16:21:47,381 :INFO :test_form_submission :First Name is :- Mithali
+2022-07-04 16:21:47,446 :INFO :test_form_submission :Email is :- m@gmail.com
+2022-07-04 16:21:47,609 :INFO :test_form_submission :Gender is :- Female
+2022-07-04 16:21:47,674 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-04 16:21:52,914 :INFO :test_e2e :getting all product titles
+2022-07-04 16:21:52,937 :INFO :test_e2e :iphone X
+2022-07-04 16:21:52,959 :INFO :test_e2e :Samsung Note 8
+2022-07-04 16:21:52,981 :INFO :test_e2e :Nokia Edge
+2022-07-04 16:21:53,003 :INFO :test_e2e :Blackberry
+2022-07-04 16:21:53,159 :INFO :test_e2e :Entering country name as India
+2022-07-04 16:21:58,585 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-04 16:23:04,430 :INFO :test_form_submission :First Name is :- Sachin
+2022-07-04 16:23:04,499 :INFO :test_form_submission :Email is :- s@gmail.com
+2022-07-04 16:23:04,645 :INFO :test_form_submission :Gender is :- Male
+2022-07-04 16:23:04,723 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-04 16:23:04,958 :INFO :test_form_submission :First Name is :- Rahul
+2022-07-04 16:23:05,023 :INFO :test_form_submission :Email is :- r@gmail.com
+2022-07-04 16:23:05,174 :INFO :test_form_submission :Gender is :- Male
+2022-07-04 16:23:05,237 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-04 16:23:05,420 :INFO :test_form_submission :First Name is :- Mithali
+2022-07-04 16:23:05,485 :INFO :test_form_submission :Email is :- m@gmail.com
+2022-07-04 16:23:05,648 :INFO :test_form_submission :Gender is :- Female
+2022-07-04 16:23:05,711 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-04 16:23:11,001 :INFO :test_e2e :getting all product titles
+2022-07-04 16:23:11,025 :INFO :test_e2e :iphone X
+2022-07-04 16:23:11,047 :INFO :test_e2e :Samsung Note 8
+2022-07-04 16:23:11,069 :INFO :test_e2e :Nokia Edge
+2022-07-04 16:23:11,091 :INFO :test_e2e :Blackberry
+2022-07-04 16:23:11,246 :INFO :test_e2e :Entering country name as India
+2022-07-04 16:23:16,671 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-05 11:01:38,244 :INFO :test_form_submission :First Name is :- Sachin
+2022-07-05 11:01:38,378 :INFO :test_form_submission :Email is :- s@gmail.com
+2022-07-05 11:01:38,678 :INFO :test_form_submission :Gender is :- Male
+2022-07-05 11:01:38,792 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-05 11:01:39,183 :INFO :test_form_submission :First Name is :- Rahul
+2022-07-05 11:01:39,426 :INFO :test_form_submission :Email is :- r@gmail.com
+2022-07-05 11:01:39,966 :INFO :test_form_submission :Gender is :- Male
+2022-07-05 11:01:40,202 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-05 11:01:40,655 :INFO :test_form_submission :First Name is :- Mithali
+2022-07-05 11:01:40,778 :INFO :test_form_submission :Email is :- m@gmail.com
+2022-07-05 11:01:41,126 :INFO :test_form_submission :Gender is :- Female
+2022-07-05 11:01:41,262 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-05 11:01:47,057 :INFO :test_e2e :getting all product titles
+2022-07-05 11:01:47,137 :INFO :test_e2e :iphone X
+2022-07-05 11:01:47,224 :INFO :test_e2e :Samsung Note 8
+2022-07-05 11:01:47,306 :INFO :test_e2e :Nokia Edge
+2022-07-05 11:01:47,386 :INFO :test_e2e :Blackberry
+2022-07-05 11:01:47,876 :INFO :test_e2e :Entering country name as India
+2022-07-05 11:01:53,651 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-21 11:46:16,857 :INFO :test_form_submission :First Name is :- Sachin
+2022-07-21 11:46:17,122 :INFO :test_form_submission :Email is :- s@gmail.com
+2022-07-21 11:46:17,700 :INFO :test_form_submission :Gender is :- Male
+2022-07-21 11:46:17,992 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 11:46:18,946 :INFO :test_form_submission :First Name is :- Rahul
+2022-07-21 11:46:19,182 :INFO :test_form_submission :Email is :- r@gmail.com
+2022-07-21 11:46:19,714 :INFO :test_form_submission :Gender is :- Male
+2022-07-21 11:46:19,945 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 11:46:20,612 :INFO :test_form_submission :First Name is :- Mithali
+2022-07-21 11:46:20,838 :INFO :test_form_submission :Email is :- m@gmail.com
+2022-07-21 11:46:21,427 :INFO :test_form_submission :Gender is :- Female
+2022-07-21 11:46:21,662 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 11:46:28,865 :INFO :test_e2e :getting all product titles
+2022-07-21 11:46:28,898 :INFO :test_e2e :iphone X
+2022-07-21 11:46:28,926 :INFO :test_e2e :Samsung Note 8
+2022-07-21 11:46:28,961 :INFO :test_e2e :Nokia Edge
+2022-07-21 11:46:28,994 :INFO :test_e2e :Blackberry
+2022-07-21 11:46:29,228 :INFO :test_e2e :Entering country name as India
+2022-07-21 11:46:34,920 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-21 11:51:26,016 :INFO :test_form_submission :First Name is :- Sachin
+2022-07-21 11:51:26,183 :INFO :test_form_submission :Email is :- s@gmail.com
+2022-07-21 11:51:26,708 :INFO :test_form_submission :Gender is :- Male
+2022-07-21 11:51:26,823 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 11:51:27,397 :INFO :test_form_submission :First Name is :- Rahul
+2022-07-21 11:51:27,598 :INFO :test_form_submission :Email is :- r@gmail.com
+2022-07-21 11:51:27,889 :INFO :test_form_submission :Gender is :- Male
+2022-07-21 11:51:28,029 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 11:51:28,316 :INFO :test_form_submission :First Name is :- Mithali
+2022-07-21 11:51:28,394 :INFO :test_form_submission :Email is :- m@gmail.com
+2022-07-21 11:51:28,617 :INFO :test_form_submission :Gender is :- Female
+2022-07-21 11:51:28,706 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 11:51:34,827 :INFO :test_e2e :getting all product titles
+2022-07-21 11:51:34,882 :INFO :test_e2e :iphone X
+2022-07-21 11:51:34,918 :INFO :test_e2e :Samsung Note 8
+2022-07-21 11:51:34,970 :INFO :test_e2e :Nokia Edge
+2022-07-21 11:51:35,035 :INFO :test_e2e :Blackberry
+2022-07-21 11:51:35,502 :INFO :test_e2e :Entering country name as India
+2022-07-21 11:51:41,308 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-21 12:02:44,452 :INFO :test_form_submission :First Name is :- Sachin
+2022-07-21 12:02:44,481 :INFO :test_form_submission :Email is :- s@gmail.com
+2022-07-21 12:02:45,299 :INFO :test_form_submission :Gender is :- Male
+2022-07-21 12:02:46,122 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 12:02:46,911 :INFO :test_form_submission :First Name is :- Rahul
+2022-07-21 12:02:46,940 :INFO :test_form_submission :Email is :- r@gmail.com
+2022-07-21 12:02:47,737 :INFO :test_form_submission :Gender is :- Male
+2022-07-21 12:02:48,083 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 12:02:49,165 :INFO :test_form_submission :First Name is :- Mithali
+2022-07-21 12:02:49,191 :INFO :test_form_submission :Email is :- m@gmail.com
+2022-07-21 12:02:50,212 :INFO :test_form_submission :Gender is :- Female
+2022-07-21 12:02:50,994 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 12:03:03,326 :INFO :test_e2e :getting all product titles
+2022-07-21 12:03:03,425 :INFO :test_e2e :iphone X
+2022-07-21 12:03:03,511 :INFO :test_e2e :Samsung Note 8
+2022-07-21 12:03:03,611 :INFO :test_e2e :Nokia Edge
+2022-07-21 12:03:03,729 :INFO :test_e2e :Blackberry
+2022-07-21 12:03:04,579 :INFO :test_e2e :Entering country name as India
+2022-07-21 12:03:10,936 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-21 12:12:38,056 :INFO :test_form_submission :First Name is :- Sachin
+2022-07-21 12:12:38,304 :INFO :test_form_submission :Email is :- s@gmail.com
+2022-07-21 12:12:38,555 :INFO :test_form_submission :Gender is :- Male
+2022-07-21 12:12:38,654 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 12:12:39,109 :INFO :test_form_submission :First Name is :- Rahul
+2022-07-21 12:12:39,192 :INFO :test_form_submission :Email is :- r@gmail.com
+2022-07-21 12:12:39,378 :INFO :test_form_submission :Gender is :- Male
+2022-07-21 12:12:39,470 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 12:12:39,710 :INFO :test_form_submission :First Name is :- Mithali
+2022-07-21 12:12:39,794 :INFO :test_form_submission :Email is :- m@gmail.com
+2022-07-21 12:12:40,009 :INFO :test_form_submission :Gender is :- Female
+2022-07-21 12:12:40,092 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 12:12:45,861 :INFO :test_e2e :getting all product titles
+2022-07-21 12:12:45,891 :INFO :test_e2e :iphone X
+2022-07-21 12:12:45,918 :INFO :test_e2e :Samsung Note 8
+2022-07-21 12:12:45,947 :INFO :test_e2e :Nokia Edge
+2022-07-21 12:12:45,976 :INFO :test_e2e :Blackberry
+2022-07-21 12:12:46,185 :INFO :test_e2e :Entering country name as India
+2022-07-21 12:12:51,921 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-21 12:34:23,945 :INFO :test_form_submission :First Name is :- Sachin
+2022-07-21 12:34:24,144 :INFO :test_form_submission :Email is :- s@gmail.com
+2022-07-21 12:34:24,736 :INFO :test_form_submission :Gender is :- Male
+2022-07-21 12:34:24,881 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 12:34:25,714 :INFO :test_form_submission :First Name is :- Rahul
+2022-07-21 12:34:25,952 :INFO :test_form_submission :Email is :- r@gmail.com
+2022-07-21 12:34:26,497 :INFO :test_form_submission :Gender is :- Male
+2022-07-21 12:34:26,759 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 12:34:27,455 :INFO :test_form_submission :First Name is :- Mithali
+2022-07-21 12:34:27,685 :INFO :test_form_submission :Email is :- m@gmail.com
+2022-07-21 12:34:28,318 :INFO :test_form_submission :Gender is :- Female
+2022-07-21 12:34:28,582 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 12:34:35,081 :INFO :test_e2e :getting all product titles
+2022-07-21 12:34:35,194 :INFO :test_e2e :iphone X
+2022-07-21 12:34:35,278 :INFO :test_e2e :Samsung Note 8
+2022-07-21 12:34:35,342 :INFO :test_e2e :Nokia Edge
+2022-07-21 12:34:35,400 :INFO :test_e2e :Blackberry
+2022-07-21 12:34:36,035 :INFO :test_e2e :Entering country name as India
+2022-07-21 12:34:41,978 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-21 12:36:15,196 :INFO :test_form_submission :First Name is :- Sachin
+2022-07-21 12:36:15,401 :INFO :test_form_submission :Email is :- s@gmail.com
+2022-07-21 12:36:16,009 :INFO :test_form_submission :Gender is :- Male
+2022-07-21 12:36:16,316 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 12:36:17,131 :INFO :test_form_submission :First Name is :- Rahul
+2022-07-21 12:36:17,363 :INFO :test_form_submission :Email is :- r@gmail.com
+2022-07-21 12:36:17,902 :INFO :test_form_submission :Gender is :- Male
+2022-07-21 12:36:18,151 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 12:36:18,892 :INFO :test_form_submission :First Name is :- Mithali
+2022-07-21 12:36:19,124 :INFO :test_form_submission :Email is :- m@gmail.com
+2022-07-21 12:36:19,757 :INFO :test_form_submission :Gender is :- Female
+2022-07-21 12:36:20,020 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 12:36:26,474 :INFO :test_e2e :getting all product titles
+2022-07-21 12:36:26,502 :INFO :test_e2e :iphone X
+2022-07-21 12:36:26,533 :INFO :test_e2e :Samsung Note 8
+2022-07-21 12:36:26,566 :INFO :test_e2e :Nokia Edge
+2022-07-21 12:36:26,597 :INFO :test_e2e :Blackberry
+2022-07-21 12:36:26,805 :INFO :test_e2e :Entering country name as India
+2022-07-21 12:36:32,867 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-21 12:37:01,749 :INFO :test_form_submission :First Name is :- Sachin
+2022-07-21 12:37:01,772 :INFO :test_form_submission :Email is :- s@gmail.com
+2022-07-21 12:37:02,578 :INFO :test_form_submission :Gender is :- Male
+2022-07-21 12:37:03,407 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 12:37:04,273 :INFO :test_form_submission :First Name is :- Rahul
+2022-07-21 12:37:04,348 :INFO :test_form_submission :Email is :- r@gmail.com
+2022-07-21 12:37:05,189 :INFO :test_form_submission :Gender is :- Male
+2022-07-21 12:37:05,946 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 12:37:06,803 :INFO :test_form_submission :First Name is :- Mithali
+2022-07-21 12:37:06,825 :INFO :test_form_submission :Email is :- m@gmail.com
+2022-07-21 12:37:07,850 :INFO :test_form_submission :Gender is :- Female
+2022-07-21 12:37:08,605 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 12:37:21,305 :INFO :test_e2e :getting all product titles
+2022-07-21 12:37:21,389 :INFO :test_e2e :iphone X
+2022-07-21 12:37:21,431 :INFO :test_e2e :Samsung Note 8
+2022-07-21 12:37:21,477 :INFO :test_e2e :Nokia Edge
+2022-07-21 12:37:21,513 :INFO :test_e2e :Blackberry
+2022-07-21 12:37:23,502 :INFO :test_e2e :Entering country name as India
+2022-07-21 12:37:31,025 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-21 12:41:49,619 :INFO :test_form_submission :First Name is :- Sachin
+2022-07-21 12:41:49,720 :INFO :test_form_submission :Email is :- s@gmail.com
+2022-07-21 12:41:50,497 :INFO :test_form_submission :Gender is :- Male
+2022-07-21 12:41:51,345 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 12:41:52,102 :INFO :test_form_submission :First Name is :- Rahul
+2022-07-21 12:41:52,134 :INFO :test_form_submission :Email is :- r@gmail.com
+2022-07-21 12:41:52,454 :INFO :test_form_submission :Gender is :- Male
+2022-07-21 12:41:52,734 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 12:41:53,331 :INFO :test_form_submission :First Name is :- Mithali
+2022-07-21 12:41:53,369 :INFO :test_form_submission :Email is :- m@gmail.com
+2022-07-21 12:41:53,928 :INFO :test_form_submission :Gender is :- Female
+2022-07-21 12:41:54,221 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 12:42:06,905 :INFO :test_e2e :getting all product titles
+2022-07-21 12:42:07,005 :INFO :test_e2e :iphone X
+2022-07-21 12:42:07,064 :INFO :test_e2e :Samsung Note 8
+2022-07-21 12:42:07,106 :INFO :test_e2e :Nokia Edge
+2022-07-21 12:42:07,137 :INFO :test_e2e :Blackberry
+2022-07-21 12:42:07,969 :INFO :test_e2e :Entering country name as India
+2022-07-21 12:42:14,373 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-21 14:25:56,492 :INFO :test_form_submission :First Name is :- Sachin
+2022-07-21 14:25:56,555 :INFO :test_form_submission :Email is :- s@gmail.com
+2022-07-21 14:25:56,713 :INFO :test_form_submission :Gender is :- Male
+2022-07-21 14:25:56,790 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 14:25:56,990 :INFO :test_form_submission :First Name is :- Rahul
+2022-07-21 14:25:57,052 :INFO :test_form_submission :Email is :- r@gmail.com
+2022-07-21 14:25:57,194 :INFO :test_form_submission :Gender is :- Male
+2022-07-21 14:25:57,257 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 14:25:57,439 :INFO :test_form_submission :First Name is :- Mithali
+2022-07-21 14:25:57,503 :INFO :test_form_submission :Email is :- m@gmail.com
+2022-07-21 14:25:57,671 :INFO :test_form_submission :Gender is :- Female
+2022-07-21 14:25:57,735 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 14:37:32,326 :INFO :test_form_submission :First Name is :- Sachin
+2022-07-21 14:37:32,458 :INFO :test_form_submission :Email is :- s@gmail.com
+2022-07-21 14:37:32,749 :INFO :test_form_submission :Gender is :- Male
+2022-07-21 14:37:32,889 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 14:37:33,305 :INFO :test_form_submission :First Name is :- Rahul
+2022-07-21 14:37:33,506 :INFO :test_form_submission :Email is :- r@gmail.com
+2022-07-21 14:37:33,781 :INFO :test_form_submission :Gender is :- Male
+2022-07-21 14:37:33,905 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 14:37:34,570 :INFO :test_form_submission :First Name is :- Mithali
+2022-07-21 14:37:34,817 :INFO :test_form_submission :Email is :- m@gmail.com
+2022-07-21 14:37:35,341 :INFO :test_form_submission :Gender is :- Female
+2022-07-21 14:37:35,539 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 14:38:44,864 :INFO :test_form_submission :First Name is :- kiran
+2022-07-21 14:38:45,013 :INFO :test_form_submission :Email is :- naik@gmail.com
+2022-07-21 14:38:45,356 :INFO :test_form_submission :Gender is :- Female
+2022-07-21 14:38:45,505 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 14:39:42,714 :INFO :test_form_submission :First Name is :- ganesh
+2022-07-21 14:39:42,858 :INFO :test_form_submission :Email is :- raut@gmail.com
+2022-07-21 14:39:43,150 :INFO :test_form_submission :Gender is :- Male
+2022-07-21 14:39:43,296 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
+2022-07-21 16:09:21,382 :INFO :test_form_submission :First Name is :- ganesh
+2022-07-21 16:09:21,474 :INFO :test_form_submission :Email is :- raut@gmail.com
+2022-07-21 16:09:21,673 :INFO :test_form_submission :Gender is :- Male
+2022-07-21 16:09:21,772 :INFO :test_form_submission :Success msg:- ×
+Success! The Form has been submitted successfully!.
